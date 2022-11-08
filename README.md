@@ -1,4 +1,4 @@
 # architecture-markdown
 
-[a Unity](unity.md)
-[a Unreal](unreal.md)
+[Unity](unity.md)
+[Unreal](unreal.md)
