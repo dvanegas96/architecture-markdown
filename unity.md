@@ -3,7 +3,7 @@
 ## FOLDER STRUCTURE
 
 
-![Tux, the Linux mascot](/Users/asdrubalramirez/Downloads/WhatsApp Image 2022-09-13 at 3.33.33 PM (8).jpeg) 
+![Tux, the Linux mascot](/Images/column layouts.png  "Optional title") 
 
 Although there is no single way to organize a Unity project, here are some key recommendations:
 > - Document your naming conventions and folder structure. A style guide and/or project template makes  files easier to locate and organize. Pick what works for your team, and make sure that everyone is on board with it.
